@@ -19,16 +19,16 @@ mozliwosc przelaczenia sie na dane zadanie, nawet jesli nie ukonczylo sie poprze
 2. Moduly i biblioteki
 3. Listy, slowniki, zbiory
 4. Comprehensions
-5. Testy
-6. Programowanie obiektowe
-7. Wyjatki
-8. Typy
-9. Funkcje i zakresy
-10. Dekoratory
-11. Managery contextu
-12. Generatory
-13. Paczkowanie kodu
-14. Aplikacje terminalowe
-15. Debugowanie i profilowanie kodu
-16. HTTP
-17. Pliki
+5. Pliki
+6. Testy
+7. Programowanie obiektowe
+8. Wyjatki
+9. Typy
+10. Funkcje i zakresy
+11. Dekoratory
+12. Managery contextu
+13. Generatory
+14. Paczkowanie kodu
+15. Aplikacje terminalowe
+16. Debugowanie i profilowanie kodu
+17. HTTP
